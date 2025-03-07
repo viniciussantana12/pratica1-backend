@@ -39,8 +39,11 @@ O servidor será iniciado na porta 3000.
 
 📤 Exemplo corpo da requisição (JSON):
 {
+
   "nome": "João Silva",
+  
   "email": "joao@email.com"
+  
 }
 
 🔹 Atualizar um usuário por ID
