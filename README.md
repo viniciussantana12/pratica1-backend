@@ -23,9 +23,11 @@ npm install
 
 ### 3️⃣ Iniciar o servidor
 node index.js
+
 O servidor será iniciado na porta 3000.
 
 📚 Rotas da API
+
 🔹 Obter todos os usuários
 📌 GET /usuarios
 
