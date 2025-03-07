@@ -36,6 +36,7 @@ O servidor será iniciado na porta 3000.
 
 🔹 Criar um novo usuário
 📌 POST /usuarios
+
 📤 Exemplo corpo da requisição (JSON):
 {
   "nome": "João Silva",
