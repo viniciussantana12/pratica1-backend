@@ -13,7 +13,7 @@ A API permite realizar operações **CRUD** (Create, Read, Update, Delete) por m
 ---
 
 ## 📌 Como Executar o Projeto
-```sh
+
 
 ### 1️⃣ Clonar o repositório  
 git clone https://github.com/seu-usuario/seu-repositorio.git
